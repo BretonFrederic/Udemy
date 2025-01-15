@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\bin\Debug\net6.0\Listes.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\bin\Debug\net6.0\Listes.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\bin\Debug\net6.0\Listes.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\bin\Debug\net6.0\Listes.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\bin\Debug\net6.0\Listes.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\refint\Listes.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\Listes.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes\Listes\obj\Debug\net6.0\ref\Listes.dll

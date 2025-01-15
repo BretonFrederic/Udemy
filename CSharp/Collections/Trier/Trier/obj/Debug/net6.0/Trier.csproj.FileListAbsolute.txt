@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\bin\Debug\net6.0\Trier.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\bin\Debug\net6.0\Trier.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\bin\Debug\net6.0\Trier.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\bin\Debug\net6.0\Trier.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\bin\Debug\net6.0\Trier.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\refint\Trier.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\Trier.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Trier\Trier\obj\Debug\net6.0\ref\Trier.dll

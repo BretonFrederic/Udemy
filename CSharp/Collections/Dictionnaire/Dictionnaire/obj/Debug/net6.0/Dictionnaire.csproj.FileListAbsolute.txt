@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\bin\Debug\net6.0\Dictionnaire.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\bin\Debug\net6.0\Dictionnaire.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\bin\Debug\net6.0\Dictionnaire.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\bin\Debug\net6.0\Dictionnaire.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\bin\Debug\net6.0\Dictionnaire.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\refint\Dictionnaire.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\Dictionnaire.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Dictionnaire\Dictionnaire\obj\Debug\net6.0\ref\Dictionnaire.dll
