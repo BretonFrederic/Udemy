@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\bin\Debug\net6.0\Fichier_performances.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\bin\Debug\net6.0\Fichier_performances.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\bin\Debug\net6.0\Fichier_performances.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\bin\Debug\net6.0\Fichier_performances.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\bin\Debug\net6.0\Fichier_performances.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\refint\Fichier_performances.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\Fichier_performances.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Fichier_performances\Fichier_performances\obj\Debug\net6.0\ref\Fichier_performances.dll
