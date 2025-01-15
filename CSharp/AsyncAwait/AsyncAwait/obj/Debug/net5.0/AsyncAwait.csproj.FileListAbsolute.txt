@@ -1,0 +1,16 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\bin\Debug\net5.0\AsyncAwait.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\bin\Debug\net5.0\AsyncAwait.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.dev.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\bin\Debug\net5.0\AsyncAwait.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\bin\Debug\net5.0\AsyncAwait.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\refint\AsyncAwait.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\AsyncAwait\AsyncAwait\obj\Debug\net5.0\ref\AsyncAwait.dll
