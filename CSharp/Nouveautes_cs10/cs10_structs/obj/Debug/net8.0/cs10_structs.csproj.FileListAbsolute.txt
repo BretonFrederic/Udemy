@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\bin\Debug\net8.0\cs10_structs.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\bin\Debug\net8.0\cs10_structs.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\bin\Debug\net8.0\cs10_structs.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\bin\Debug\net8.0\cs10_structs.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\bin\Debug\net8.0\cs10_structs.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\refint\cs10_structs.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\cs10_structs.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_structs\obj\Debug\net8.0\ref\cs10_structs.dll

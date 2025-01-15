@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\bin\Debug\net6.0\Jeux_de_maths.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\bin\Debug\net6.0\Jeux_de_maths.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\bin\Debug\net6.0\Jeux_de_maths.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\bin\Debug\net6.0\Jeux_de_maths.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\bin\Debug\net6.0\Jeux_de_maths.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\refint\Jeux_de_maths.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\Jeux_de_maths.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeux_de_maths\Jeux_de_maths\obj\Debug\net6.0\ref\Jeux_de_maths.dll

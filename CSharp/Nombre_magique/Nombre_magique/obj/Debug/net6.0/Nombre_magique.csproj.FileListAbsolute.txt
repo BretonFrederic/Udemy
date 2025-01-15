@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\bin\Debug\net6.0\Nombre_magique.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\bin\Debug\net6.0\Nombre_magique.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\bin\Debug\net6.0\Nombre_magique.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\bin\Debug\net6.0\Nombre_magique.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\bin\Debug\net6.0\Nombre_magique.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\refint\Nombre_magique.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\Nombre_magique.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nombre_magique\Nombre_magique\obj\Debug\net6.0\ref\Nombre_magique.dll

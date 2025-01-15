@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\bin\Debug\net8.0\RecordsSyntaxeCourte.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\bin\Debug\net8.0\RecordsSyntaxeCourte.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\bin\Debug\net8.0\RecordsSyntaxeCourte.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\bin\Debug\net8.0\RecordsSyntaxeCourte.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\bin\Debug\net8.0\RecordsSyntaxeCourte.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\refint\RecordsSyntaxeCourte.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\RecordsSyntaxeCourte.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\RecordsSyntaxeCourte\obj\Debug\net8.0\ref\RecordsSyntaxeCourte.dll

@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\bin\Debug\net6.0\Premier_programme.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\bin\Debug\net6.0\Premier_programme.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\bin\Debug\net6.0\Premier_programme.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\bin\Debug\net6.0\Premier_programme.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\bin\Debug\net6.0\Premier_programme.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\refint\Premier_programme.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\Premier_programme.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net6.0\ref\Premier_programme.dll

@@ -1,0 +1,5 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net5.0\Premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net5.0\Premier_programme.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net5.0\Premier_programme.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net5.0\Premier_programme.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Premier_programme\Premier_programme\obj\Debug\net5.0\Premier_programme.sourcelink.json

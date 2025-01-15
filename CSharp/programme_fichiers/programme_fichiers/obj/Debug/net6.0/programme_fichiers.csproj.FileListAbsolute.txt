@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\bin\Debug\net6.0\programme_fichiers.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\refint\programme_fichiers.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\programme_fichiers.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_fichiers\programme_fichiers\obj\Debug\net6.0\ref\programme_fichiers.dll

@@ -1,0 +1,16 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\bin\Debug\net5.0\TopLevelPrograms.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\bin\Debug\net5.0\TopLevelPrograms.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\bin\Debug\net5.0\TopLevelPrograms.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\bin\Debug\net5.0\TopLevelPrograms.runtimeconfig.dev.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\bin\Debug\net5.0\TopLevelPrograms.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\bin\Debug\net5.0\TopLevelPrograms.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\refint\TopLevelPrograms.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\TopLevelPrograms.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\TopLevelPrograms\obj\Debug\net5.0\ref\TopLevelPrograms.dll

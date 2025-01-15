@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\bin\Debug\net6.0\Projet_pizza_v1.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\bin\Debug\net6.0\Projet_pizza_v1.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\bin\Debug\net6.0\Projet_pizza_v1.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\bin\Debug\net6.0\Projet_pizza_v1.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\bin\Debug\net6.0\Projet_pizza_v1.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\refint\Projet_pizza_v1.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\Projet_pizza_v1.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Projet_pizza_v1\Projet_pizza_v1\obj\Debug\net6.0\ref\Projet_pizza_v1.dll

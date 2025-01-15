@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\bin\Debug\net6.0\programme_reseau_download.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\bin\Debug\net6.0\programme_reseau_download.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\bin\Debug\net6.0\programme_reseau_download.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\bin\Debug\net6.0\programme_reseau_download.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\bin\Debug\net6.0\programme_reseau_download.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\refint\programme_reseau_download.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\programme_reseau_download.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_download\programme_reseau_download\obj\Debug\net6.0\ref\programme_reseau_download.dll

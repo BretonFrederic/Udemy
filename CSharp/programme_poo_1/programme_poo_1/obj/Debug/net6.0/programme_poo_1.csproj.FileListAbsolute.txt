@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\bin\Debug\net6.0\programme_poo_1.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\bin\Debug\net6.0\programme_poo_1.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\bin\Debug\net6.0\programme_poo_1.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\bin\Debug\net6.0\programme_poo_1.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\bin\Debug\net6.0\programme_poo_1.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\refint\programme_poo_1.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\programme_poo_1.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_poo_1\programme_poo_1\obj\Debug\net6.0\ref\programme_poo_1.dll

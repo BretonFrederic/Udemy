@@ -1,0 +1,16 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\bin\Debug\net5.0\LesRecords.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\bin\Debug\net5.0\LesRecords.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\bin\Debug\net5.0\LesRecords.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\bin\Debug\net5.0\LesRecords.runtimeconfig.dev.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\bin\Debug\net5.0\LesRecords.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\bin\Debug\net5.0\LesRecords.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\refint\LesRecords.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\LesRecords.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs9\Nouveautes_cs9\LesRecords\obj\Debug\net5.0\ref\LesRecords.dll

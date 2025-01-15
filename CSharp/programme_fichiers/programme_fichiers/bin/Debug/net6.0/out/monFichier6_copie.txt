@@ -1,0 +1,1 @@
+Le dossier est créer si il n'existe pas, le fichier est créer ou écrasé si il existe.
