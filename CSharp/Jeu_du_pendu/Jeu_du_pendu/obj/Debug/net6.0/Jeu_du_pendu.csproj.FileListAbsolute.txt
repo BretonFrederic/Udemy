@@ -1,0 +1,16 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\bin\Debug\net6.0\Jeu_du_pendu.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\bin\Debug\net6.0\Jeu_du_pendu.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\bin\Debug\net6.0\Jeu_du_pendu.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\bin\Debug\net6.0\Jeu_du_pendu.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\bin\Debug\net6.0\Jeu_du_pendu.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\refint\Jeu_du_pendu.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\Jeu_du_pendu.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\obj\Debug\net6.0\ref\Jeu_du_pendu.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Jeu_du_pendu\Jeu_du_pendu\bin\Debug\net6.0\mots.txt

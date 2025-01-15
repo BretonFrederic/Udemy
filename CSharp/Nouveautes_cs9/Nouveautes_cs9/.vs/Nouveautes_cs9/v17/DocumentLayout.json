@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B5831F-7B02-404D-9257-6BAD2B9201B9}|LesRecords\\LesRecords.csproj|c:\\users\\fr\u00E9d\u00E9ric\\documents\\git\\udemy\\c#\\nouveautes_cs9\\nouveautes_cs9\\lesrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B5831F-7B02-404D-9257-6BAD2B9201B9}|LesRecords\\LesRecords.csproj|solutionrelative:lesrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B5831F-7B02-404D-9257-6BAD2B9201B9}|LesRecords\\LesRecords.csproj|c:\\users\\fr\u00E9d\u00E9ric\\documents\\git\\udemy\\c#\\nouveautes_cs9\\nouveautes_cs9\\lesrecords\\lesrecords.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2B5831F-7B02-404D-9257-6BAD2B9201B9}|LesRecords\\LesRecords.csproj|solutionrelative:lesrecords\\lesrecords.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB13D8D9-A9EC-41BB-8E47-86A9F2E0D4F7}|RecordsSyntaxeCourte\\RecordsSyntaxeCourte.csproj|c:\\users\\fr\u00E9d\u00E9ric\\documents\\git\\udemy\\c#\\nouveautes_cs9\\nouveautes_cs9\\recordssyntaxecourte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB13D8D9-A9EC-41BB-8E47-86A9F2E0D4F7}|RecordsSyntaxeCourte\\RecordsSyntaxeCourte.csproj|solutionrelative:recordssyntaxecourte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\LesRecords\\Program.cs",
+              "RelativeDocumentMoniker": "LesRecords\\Program.cs",
+              "ToolTip": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\LesRecords\\Program.cs",
+              "RelativeToolTip": "LesRecords\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAmwH0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:02:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LesRecords",
+              "DocumentMoniker": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\LesRecords\\LesRecords.csproj",
+              "RelativeDocumentMoniker": "LesRecords\\LesRecords.csproj",
+              "ToolTip": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\LesRecords\\LesRecords.csproj",
+              "RelativeToolTip": "LesRecords\\LesRecords.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T16:02:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\RecordsSyntaxeCourte\\Program.cs",
+              "RelativeDocumentMoniker": "RecordsSyntaxeCourte\\Program.cs",
+              "ToolTip": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs9\\Nouveautes_cs9\\RecordsSyntaxeCourte\\Program.cs",
+              "RelativeToolTip": "RecordsSyntaxeCourte\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvy4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:22:14.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

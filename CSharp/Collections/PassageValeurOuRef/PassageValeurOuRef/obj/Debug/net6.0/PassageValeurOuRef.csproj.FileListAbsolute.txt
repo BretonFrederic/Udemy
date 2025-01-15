@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\bin\Debug\net6.0\PassageValeurOuRef.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\bin\Debug\net6.0\PassageValeurOuRef.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\bin\Debug\net6.0\PassageValeurOuRef.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\bin\Debug\net6.0\PassageValeurOuRef.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\bin\Debug\net6.0\PassageValeurOuRef.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\refint\PassageValeurOuRef.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\PassageValeurOuRef.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\PassageValeurOuRef\PassageValeurOuRef\obj\Debug\net6.0\ref\PassageValeurOuRef.dll

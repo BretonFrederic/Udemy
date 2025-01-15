@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassageValeurOuRef", "PassageValeurOuRef\PassageValeurOuRef.csproj", "{7CB38B56-949B-4A76-B696-D1ED15361976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB38B56-949B-4A76-B696-D1ED15361976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB38B56-949B-4A76-B696-D1ED15361976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB38B56-949B-4A76-B696-D1ED15361976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB38B56-949B-4A76-B696-D1ED15361976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2324B323-86C8-454C-A299-696B63F8C17A}
+	EndGlobalSection
+EndGlobal

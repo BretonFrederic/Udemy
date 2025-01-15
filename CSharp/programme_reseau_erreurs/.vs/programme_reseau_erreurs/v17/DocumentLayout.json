@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_erreurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DA89A3-F1DE-4C86-9274-763F3613EFE7}|programme_reseau_erreurs\\programme_reseau_erreurs.csproj|c:\\users\\fr\u00E9d\u00E9ric\\documents\\git\\udemy\\c#\\programme_reseau_erreurs\\programme_reseau_erreurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DA89A3-F1DE-4C86-9274-763F3613EFE7}|programme_reseau_erreurs\\programme_reseau_erreurs.csproj|solutionrelative:programme_reseau_erreurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_erreurs\\programme_reseau_erreurs\\Program.cs",
+              "RelativeDocumentMoniker": "programme_reseau_erreurs\\Program.cs",
+              "ToolTip": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_erreurs\\programme_reseau_erreurs\\Program.cs",
+              "RelativeToolTip": "programme_reseau_erreurs\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:43:51.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

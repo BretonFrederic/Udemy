@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\bin\Debug\net8.0\cs10_lambdas.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\bin\Debug\net8.0\cs10_lambdas.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\bin\Debug\net8.0\cs10_lambdas.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\bin\Debug\net8.0\cs10_lambdas.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\bin\Debug\net8.0\cs10_lambdas.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\refint\cs10_lambdas.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\cs10_lambdas.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Nouveautes_cs10\cs10_lambdas\obj\Debug\net8.0\ref\cs10_lambdas.dll

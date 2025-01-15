@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\bin\Debug\net6.0\ProgrammeDelegates.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\bin\Debug\net6.0\ProgrammeDelegates.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\bin\Debug\net6.0\ProgrammeDelegates.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\bin\Debug\net6.0\ProgrammeDelegates.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\bin\Debug\net6.0\ProgrammeDelegates.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\refint\ProgrammeDelegates.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ProgrammeDelegates.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDelegates\ProgrammeDelegates\obj\Debug\net6.0\ref\ProgrammeDelegates.dll

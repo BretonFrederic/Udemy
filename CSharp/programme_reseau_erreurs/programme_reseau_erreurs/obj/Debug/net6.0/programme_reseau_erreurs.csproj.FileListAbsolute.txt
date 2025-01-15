@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\bin\Debug\net6.0\programme_reseau_erreurs.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\bin\Debug\net6.0\programme_reseau_erreurs.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\bin\Debug\net6.0\programme_reseau_erreurs.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\bin\Debug\net6.0\programme_reseau_erreurs.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\bin\Debug\net6.0\programme_reseau_erreurs.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\refint\programme_reseau_erreurs.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\programme_reseau_erreurs.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\programme_reseau_erreurs\programme_reseau_erreurs\obj\Debug\net6.0\ref\programme_reseau_erreurs.dll

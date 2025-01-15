@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\bin\Debug\net6.0\Listes_de_listes.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\bin\Debug\net6.0\Listes_de_listes.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\bin\Debug\net6.0\Listes_de_listes.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\bin\Debug\net6.0\Listes_de_listes.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\bin\Debug\net6.0\Listes_de_listes.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\refint\Listes_de_listes.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\Listes_de_listes.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Collections\Listes_de_listes\Listes_de_listes\obj\Debug\net6.0\ref\Listes_de_listes.dll

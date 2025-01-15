@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\bin\Debug\net6.0\Generateur_phrases_aleatoires.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\bin\Debug\net6.0\Generateur_phrases_aleatoires.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\bin\Debug\net6.0\Generateur_phrases_aleatoires.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\bin\Debug\net6.0\Generateur_phrases_aleatoires.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\bin\Debug\net6.0\Generateur_phrases_aleatoires.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\refint\Generateur_phrases_aleatoires.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\Generateur_phrases_aleatoires.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Generateur_phrases_aleatoires\Generateur_phrases_aleatoires\obj\Debug\net6.0\ref\Generateur_phrases_aleatoires.dll

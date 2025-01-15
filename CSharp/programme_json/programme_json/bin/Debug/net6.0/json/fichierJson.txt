@@ -1,0 +1,1 @@
+[{"nom":"Greg","age":32,"majeur":true},{"nom":"Sophie","age":17,"majeur":false},{"nom":"Mathilde","age":32,"majeur":true},{"nom":"Damien","age":15,"majeur":false}]

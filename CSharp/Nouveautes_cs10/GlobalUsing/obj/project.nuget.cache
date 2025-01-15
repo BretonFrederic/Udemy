@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dkdyr/cfw6A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frédéric\\Documents\\Git\\UDEMY\\C#\\Nouveautes_cs10\\GlobalUsing\\GlobalUsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frédéric\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

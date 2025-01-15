@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net6.0\ProgrammeDateTime.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net6.0\ProgrammeDateTime.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net6.0\ProgrammeDateTime.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net6.0\ProgrammeDateTime.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net6.0\ProgrammeDateTime.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\refint\ProgrammeDateTime.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ProgrammeDateTime.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net6.0\ref\ProgrammeDateTime.dll

@@ -1,0 +1,15 @@
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\bin\Debug\net6.0\Programme_poo_interface.exe
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\bin\Debug\net6.0\Programme_poo_interface.deps.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\bin\Debug\net6.0\Programme_poo_interface.runtimeconfig.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\bin\Debug\net6.0\Programme_poo_interface.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\bin\Debug\net6.0\Programme_poo_interface.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.AssemblyInfoInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.AssemblyInfo.cs
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.csproj.CoreCompileInputs.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.sourcelink.json
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\refint\Programme_poo_interface.dll
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.pdb
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\Programme_poo_interface.genruntimeconfig.cache
+C:\Users\Frédéric\Documents\Git\UDEMY\C#\Programme_poo_interface\Programme_poo_interface\obj\Debug\net6.0\ref\Programme_poo_interface.dll
