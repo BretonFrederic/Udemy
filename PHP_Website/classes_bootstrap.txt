@@ -1,0 +1,24 @@
+CLASSES BOOTSTRAP
+
+container et container-fluid très utile pour centrer sur la page.
+navbar-expand-md utile pour étendre le burger menu à partir du préfixe -sm -> small, -md -> médium, -larg -> large…
+
+Les grids bootstrap (12colonnes)
+
+Dans une div de class "row" qu contient 3 div de classes "col-md-4" chaque colonne prend 4 de largeur sur 12 à partir d'une taille d'écran médium(768px) -md.
+En dessous de médium(768px) si la largeur est trop petite les éléments se placent les uns en dessous des autres.
+
+Couleur et Bootswatch
+
+Les classes couleurs permettent de modifier la couleur par exemple "btn-secondary" définit un bouton en gris
+Pour avoir des couleurs personnalisées on peut créer ses propres classes .css
+Il y a Bootswatch basé sur bootstrap qui permet d'utiliser des thèmes.
+
+Margin et padding
+
+Les classes margin spécifiques dans bootstrap sont des préfixe tel que "mt-X" -> margin-top de X pixels, "ml-X" -> margin-left, "mb-X" -> margin-bottom, "mr-X" -> margin-right
+On retrouve la même syntaxe pour les padding spécifiques top, left, Bottom et left.
+
+Bootstrap est utile pour créer le squelette d'un site en récupérant le code, on peut ensuite faire de même avec un card, button etc que l'on pourra personnaliser.
+
+Pour les icones fontawesome.com sera utile.

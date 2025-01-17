@@ -12,9 +12,11 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/4.2/examples/jumbotron/">
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.2.1/dist/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.css">
 
-
+    <!--fontawesome.com -->
+    <script defer src="https://kit.fontawesome.com/e0ab3a2c1c.js" crossorigin="anonymous"></script>
+ 
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
@@ -31,43 +33,44 @@
     <link href="jumbotron.css" rel="stylesheet">
   </head>
   <body>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-  <a class="navbar-brand" href="#">Navbar</a>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
+  <a class="navbar-brand" href="#">Ma bibliothèque</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gestion des genres</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="#">Liste des genres</a>
+          <a class="dropdown-item" href="#">Ajouter un genre</a>
+        </div>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-person"></i> Gestion des auteurs</a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
+          <a class="dropdown-item" href="#">Liste des auteurs</a>
+          <a class="dropdown-item" href="#">Ajouter un auteur</a>
+          <a class="dropdown-item" href="#">Rechercher un auteur</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa-regular fa-flag"></i> Gestion des nationalités</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="#">Liste des nationalités</a>
+          <a class="dropdown-item" href="#">Ajouter une nationalités</a>
         </div>
       </li>
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
   </div>
 </nav>
 
 <main role="main">
 
   <!-- Main jumbotron for a primary marketing message or call to action -->
-  <div class="jumbotron">
+  <div class="jumbotron container">
     <div class="container">
       <h1 class="display-3">Hello, world!</h1>
       <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
@@ -81,12 +84,12 @@
       <div class="col-md-4">
         <h2>Heading</h2>
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-4">
         <h2>Heading</h2>
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <p><a class="btn btn-warning" href="#" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-4">
         <h2>Heading</h2>
@@ -94,10 +97,41 @@
         <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
       </div>
     </div>
-
+      
     <hr>
 
   </div> <!-- /container -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card border-primary mb-3" style="max-width: 20rem;">
+          <div class="card-header">Header</div>
+          <div class="card-body">
+            <h4 class="card-title">Primary card title</h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card border-primary mb-3" style="max-width: 20rem;">
+          <div class="card-header">Header</div>
+          <div class="card-body">
+            <h4 class="card-title">Primary card title</h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card border-primary mb-3" style="max-width: 20rem;">
+          <div class="card-header">Header</div>
+          <div class="card-body">
+            <h4 class="card-title">Primary card title</h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </main>
 
