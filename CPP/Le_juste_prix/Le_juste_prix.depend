@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738010117 source:c:\users\frédéric\documents\git\udemy\cpp\le_juste_prix\main.cpp
+	<iostream>
+	<string>
+
