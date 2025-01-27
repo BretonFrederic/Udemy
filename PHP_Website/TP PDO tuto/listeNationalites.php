@@ -14,7 +14,7 @@ $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer d
             <h2>Liste des nationalités</h2>
         </div>
         <div class="col-3">
-            <a href="" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer une nationalité</a>
+            <a href="formAjoutNationalite.php" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer une nationalité</a>
         </div>
     </div>
 
