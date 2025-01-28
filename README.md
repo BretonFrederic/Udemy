@@ -7,3 +7,5 @@
 # 3 - Formation Java par Jean-Philippe EHRET
 
 # 4 - Formation python par Jonathan ROUX
+
+# 5 - Formation C++ par Nicolas KOENIG
