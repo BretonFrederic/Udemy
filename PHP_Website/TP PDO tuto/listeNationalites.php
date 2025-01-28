@@ -1,6 +1,7 @@
 <?php
 include "header.php";
 include "connexionPdo.php";
+
 //Requête de l'instance PDO
 $req = $monPdo->prepare("select * from nationalite"); // Préparation/analyse
 $req->setFetchMode(PDO::FETCH_OBJ); // Récupère un type FETCH_OBJ liste d'objets
