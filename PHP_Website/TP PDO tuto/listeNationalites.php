@@ -33,8 +33,10 @@ $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer d
                 echo "<tr class='d-flex'>";
                 echo "<td class='col-md-2'>$nationalite->num</td>";
                 echo "<td class='col-md-8'>$nationalite->libelle</td>";
+
+                // Avec ? on passe en paramètre num=$nationalite->num qui compose l'url
                 echo "<td class='col-md-2'>
-                    <a href='' class='btn btn-primary'><i class='fas fa-pen'></i></a>
+                    <a href='formModifNationalite.php?num=$nationalite->num' class='btn btn-primary'><i class='fas fa-pen'></i></a>
                     <a href='' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
                 </td>";
                 echo "</tr>";
