@@ -649,4 +649,4 @@ INSERT INTO `pret` VALUES (null,'48','17','2013-10-15','2013-10-29',NULL);
 
 
 
-        
+        adherentauteurgenrenationalitenationalite
