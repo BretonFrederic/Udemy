@@ -37,7 +37,7 @@ $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer d
                 // Avec ? on passe en paramètre num=$nationalite->num qui compose l'url
                 echo "<td class='col-md-2'>
                     <a href='formNationalite.php?action=Modifier&num=$nationalite->num' class='btn btn-primary'><i class='fas fa-pen'></i></a>
-                    <a href='' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
+                    <a href='supprimerNationalite.php?num=$nationalite->num' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
                 </td>";
                 echo "</tr>";
             }
