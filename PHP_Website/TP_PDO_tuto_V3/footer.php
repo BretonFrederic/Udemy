@@ -1,3 +1,20 @@
+<div id="modalSuppression" class="modal fade" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">confirmation de suppression</h5>
+      </div>
+      <div class="modal-body">
+        <!-- Emplacement du message de la modal -->
+      </div>
+      <div class="modal-footer">
+        <a href="" class="btn btn-primary" id="btnSuppr">Supprimer</a>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Ne pas supprimer</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <footer class="container">
   <p>&copy; TP 3 Rolland 2018-2019</p>
 </footer>
@@ -8,7 +25,9 @@
 
   $("a[data-suppression]").click(function(){
     var lien = $(this).attr("data-suppression"); // Récupérer le lien qui prend en paramètre le num de nationalité du bouton icone poubelle
+    var message = $(this).attr("data-message"); // Récupérer le message de la modal
     $("#btnSuppr").attr("href", lien); // Ecrire ce lien en href sur le bouton "supprimer" de la modal boite de dialogue
+    $(".modal-body").text(message); // Ecrire le message de la modal
   });
 
 </script>

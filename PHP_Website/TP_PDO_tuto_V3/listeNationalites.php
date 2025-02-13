@@ -37,7 +37,7 @@ $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer d
                 // Avec ? on passe en paramètre num=$nationalite->num qui compose l'url
                 echo "<td class='col-md-2'>
                     <a href='formNationalite.php?action=Modifier&num=$nationalite->num' class='btn btn-primary'><i class='fas fa-pen'></i></a>
-                    <a href='#modalSuppression' data-toggle='modal' data-suppression='supprimerNationalite.php?num=$nationalite->num' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
+                    <a href='#modalSuppression' data-toggle='modal' data-message='Voulez-vous supprimer cette nationalité ?' data-suppression='supprimerNationalite.php?num=$nationalite->num' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
                 </td>";
                 echo "</tr>";
             }
@@ -47,23 +47,6 @@ $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer d
             ?>
         </tbody>
     </table>
-</div>
-
-<div id="modalSuppression" class="modal" role="dialog">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">confirmation de suppression</h5>
-      </div>
-      <div class="modal-body">
-        <p>Voulez-vous supprimer cette nationalité ?</p>
-      </div>
-      <div class="modal-footer">
-        <a href="" class="btn btn-primary" id="btnSuppr">Supprimer</a>
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Ne pas supprimer</button>
-      </div>
-    </div>
-  </div>
 </div>
 
 <?php include "footer.php";
