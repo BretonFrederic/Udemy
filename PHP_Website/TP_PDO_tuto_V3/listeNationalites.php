@@ -7,6 +7,21 @@ $req = $monPdo->prepare("select * from nationalite"); // Préparation/analyse
 $req->setFetchMode(PDO::FETCH_OBJ); // Récupère un type FETCH_OBJ liste d'objets
 $req->execute(); // Appel à la méthode execute()
 $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer dans $lesNationalites
+
+if(!empty($_SESSION['message'])){
+    $mesMessages = $_SESSION['message'];
+    foreach($mesMessages as $key=>$message){
+        echo'<div class="container pt-5">
+                <div class="alert alert-'.$key.' alert-dismissible fade show" role="alert">'.$message.'
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            </div>';
+    }
+    $_SESSION['message']=[];
+}
+
 ?>
 <div class="container mt-5">
     <div class="row pt-3">

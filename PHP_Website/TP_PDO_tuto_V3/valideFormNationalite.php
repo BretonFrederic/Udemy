@@ -22,12 +22,14 @@ echo '<div class="container mt-5">';
 echo '<div class="row">
     <div class="col mt-5">';
 if ($nb == 1) {
-    echo '<div class="alert alert-success" role="alert">
-        La nationalité a bien été '. $message . '</div> ';
+    $_SESSION['message']=["success"=>"La nationalité a bien été ".$message];
 } else {
-    echo '<div class="alert alert-danger" role="alert">
-        La nationalité n\'a pas été '. $message.' </div> ';
+    $_SESSION['message']=["success"=>"La nationalité a bien été ".$message];
 }
+
+header('location: listeNationalites.php');
+exit();
+
 ?>
 </div>
 </div>
