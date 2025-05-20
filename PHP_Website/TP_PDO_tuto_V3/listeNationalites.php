@@ -3,7 +3,7 @@ include "header.php";
 include "connexionPdo.php";
 
 //Requête de l'instance PDO
-$req = $monPdo->prepare("select n.num, n.libelle as 'libNation', c.libelle as 'libContinent' from nationalite n, continent c where n.numContinent=c.num "); // Préparation/analyse
+$req = $monPdo->prepare("select n.num, n.libelle as 'libNation', c.libelle as 'libContinent' from nationalite n, continent c where n.numContinent=c.num order by n.libelle"); // Préparation/analyse
 $req->setFetchMode(PDO::FETCH_OBJ); // Récupère un type FETCH_OBJ liste d'objets
 $req->execute(); // Appel à la méthode execute()
 $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer dans $lesNationalites
