@@ -9,7 +9,12 @@ if ($action == "Modifier") {
     $req->bindParam(':num', $num);
     $req->execute();
     $laNationalite = $req->fetch();
+    // liste des continents
 }
+$reqContinent = $monPdo->prepare("select * from continent");
+$reqContinent->setFetchMode(PDO::FETCH_OBJ);
+$reqContinent->execute();
+$lesContinents=$reqContinent->fetchAll();
 
 // Controler et afficher avec l'outil inspecter le contenu d'un valeur php dans le <body>
 // var_dump($laNationalite);
@@ -22,6 +27,17 @@ if ($action == "Modifier") {
         <div class="form-group">
             <label for="libelle">Libellé</label>
             <input type="text" class="form-control" id='libelle' placeholder="Saisir le libellé" name="libelle" value="<?php if ($action == "Modifier"){echo $laNationalite->libelle;} ?>">
+        </div>
+        <div class="form-group">
+            <label for="continent">Libellé</label>
+            <select name="continent" class="form-control">
+                <?php
+                foreach($lesContinents as $continent){
+                    $selection=$continent->num == $laNationalite->numContinent ? 'selected' : '';
+                    echo "<option value='$continent->num' $selection>$continent->libelle</option>";
+                }
+                ?>
+            </select>
         </div>
         <input type="hidden" id="num" name="num" value="<?php if ($action == "Modifier"){echo $laNationalite->num;} ?>">
         <div class="row">
