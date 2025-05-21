@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programme_reseau_download")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c045c923714834a35c10da12cee09ccfc2491567")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd55491531203bbd87ee8757904d2ff1d8da743")]
 [assembly: System.Reflection.AssemblyProductAttribute("programme_reseau_download")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programme_reseau_download")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

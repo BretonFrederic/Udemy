@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frédéric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj": {}
+    "C:\\Users\\Frédéric\\Documents\\Git\\Udemy\\CSharp\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frédéric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj": {
+    "C:\\Users\\Frédéric\\Documents\\Git\\Udemy\\CSharp\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frédéric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj",
+        "projectUniqueName": "C:\\Users\\Frédéric\\Documents\\Git\\Udemy\\CSharp\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj",
         "projectName": "programme_reseau_download",
-        "projectPath": "C:\\Users\\Frédéric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj",
+        "projectPath": "C:\\Users\\Frédéric\\Documents\\Git\\Udemy\\CSharp\\programme_reseau_download\\programme_reseau_download\\programme_reseau_download.csproj",
         "packagesPath": "C:\\Users\\Frédéric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frédéric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\obj\\",
+        "outputPath": "C:\\Users\\Frédéric\\Documents\\Git\\Udemy\\CSharp\\programme_reseau_download\\programme_reseau_download\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

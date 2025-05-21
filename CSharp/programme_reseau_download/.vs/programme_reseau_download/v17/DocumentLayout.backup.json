@@ -1,41 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA6EE6D-0F1E-43E6-A79B-3C129CF5EFD3}|programme_reseau_download\\programme_reseau_download.csproj|c:\\users\\fr\u00E9d\u00E9ric\\documents\\git\\udemy\\c#\\programme_reseau_download\\programme_reseau_download\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAA6EE6D-0F1E-43E6-A79B-3C129CF5EFD3}|programme_reseau_download\\programme_reseau_download.csproj|solutionrelative:programme_reseau_download\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\Program.cs",
-              "RelativeDocumentMoniker": "programme_reseau_download\\Program.cs",
-              "ToolTip": "C:\\Users\\Fr\u00E9d\u00E9ric\\Documents\\Git\\UDEMY\\C#\\programme_reseau_download\\programme_reseau_download\\Program.cs",
-              "RelativeToolTip": "programme_reseau_download\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:35:33.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

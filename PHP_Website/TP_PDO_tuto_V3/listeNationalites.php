@@ -2,11 +2,18 @@
 include "header.php";
 include "connexionPdo.php";
 
-//Requête de l'instance PDO
+// Requête de l'instance PDO
+// Liste des nationalités
 $req = $monPdo->prepare("select n.num, n.libelle as 'libNation', c.libelle as 'libContinent' from nationalite n, continent c where n.numContinent=c.num order by n.libelle"); // Préparation/analyse
 $req->setFetchMode(PDO::FETCH_OBJ); // Récupère un type FETCH_OBJ liste d'objets
 $req->execute(); // Appel à la méthode execute()
 $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer dans $lesNationalites
+
+// Liste des continents
+$reqContinent = $monPdo->prepare("select * from continent");
+$reqContinent->setFetchMode(PDO::FETCH_OBJ);
+$reqContinent->execute();
+$lesContinents=$reqContinent->fetchAll();
 
 if(!empty($_SESSION['message'])){
     $mesMessages = $_SESSION['message'];
@@ -23,6 +30,7 @@ if(!empty($_SESSION['message'])){
 }
 
 ?>
+
 <div class="container mt-5">
     <div class="row pt-3">
 
@@ -33,6 +41,28 @@ if(!empty($_SESSION['message'])){
             <a href="formNationalite.php?action=Ajouter" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer une nationalité</a>
         </div>
     </div>
+
+
+    <form action="" method="get" class="border border-primary rounded p-3 mt-3 mb-3">
+        <div class="row">
+            <div class="col">
+                <input type="text" class="form-control" id='libelle' placeholder="Saisir le libellé" name="libelle" value="">
+            </div>
+            <div class="col">
+                <select name="continent" class="form-control">
+                    <?php
+                    foreach($lesContinents as $continent){
+                        $selection=$continent->num == $laNationalite->numContinent ? 'selected' : '';
+                        echo "<option value='$continent->num' $selection>$continent->libelle</option>";
+                    }
+                    ?>
+                </select>
+            </div>
+            <div class="col">
+                <button type="submit" class="btn btn-success btn-block">Rechercher</button>
+            </div>
+        </div>
+    </form>
 
     <table class="table table-hover table-striped">
         <thead>
