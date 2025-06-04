@@ -4,7 +4,14 @@ include "connexionPdo.php";
 
 // Requête de l'instance PDO
 // Liste des nationalités
-$req = $monPdo->prepare("select n.num, n.libelle as 'libNation', c.libelle as 'libContinent' from nationalite n, continent c where n.numContinent=c.num order by n.libelle"); // Préparation/analyse
+//Construction de la requête
+$texteReq = "select n.num, n.libelle as 'libNation', c.libelle as 'libContinent' from nationalite n, continent c where n.numContinent=c.num";
+if(!empty($_GET)){
+    if($_GET['libelle'] != ""){ $texteReq.= " and n.libelle like '%" .$_GET['libelle']."%'";}
+    if($_GET['continent'] != "") { $texteReq.= " and c.num =" .$_GET['continent'];}
+}
+$texteReq.= " order by n.libelle";
+$req = $monPdo->prepare($texteReq); // Préparation/analyse
 $req->setFetchMode(PDO::FETCH_OBJ); // Récupère un type FETCH_OBJ liste d'objets
 $req->execute(); // Appel à la méthode execute()
 $lesNationalites = $req->fetchAll(); // Stocke tous ce qui a été récupérer dans $lesNationalites
