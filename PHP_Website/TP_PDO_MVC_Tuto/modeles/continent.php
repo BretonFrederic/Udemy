@@ -47,4 +47,19 @@ class Continent{
         $this->libelle = $libelle;
         return $this;
     }
+
+    /**
+     * retourne l'ensemble des continents
+     *
+     * @return array Continent[] d'objet continent
+     */
+    public static function findAll() : array
+    {
+        $req = MonPdo::getinstance()->prepare("select * from continent");
+        // FETCH_PROPS_LATE pour passer par le constructeur pour construire l'objet.
+        $req->setFetchMode(PDO::FETCH_CLASS|PDO::FETCH_PROPS_LATE, 'continent');
+        $req->execute();
+        $lesResultats = $req->fetchAll();
+        return $lesResultats;
+    }
 }
