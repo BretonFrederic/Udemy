@@ -27,6 +27,8 @@ class Continent{
 
     /**
      * Accesseur de la valeur libelle
+     * 
+     * @return string
      */
     public function getLibelle() : string
     {
@@ -36,6 +38,7 @@ class Continent{
     /**
      * Mutateur de la valeur libelle
      * 
+     * @param string $libelle
      * @return self
      */
 
