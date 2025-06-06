@@ -62,4 +62,34 @@ class Continent{
         $lesResultats = $req->fetchAll();
         return $lesResultats;
     }
+
+    /**
+     * Trouve un continent par son num
+     *
+     * @param integer $id numéro du continent
+     * @return Continent objet continent trouvé
+     */
+    public static function findById(int $id) :Continent 
+    {
+        $req = MonPdo::getinstance()->prepare("Select * from continent whre num = :id");
+        $req->setFetchMode(PDO::FETCH_CLASS|PDO::FETCH_PROPS_LATE, 'Continent');
+        $req->bindParam(':id', $id);
+        $req->execute();
+        $leResultat = $req->fetch();
+        return $leResultat;
+    }
+
+    /**
+     * Permet d'ajouter un continent
+     *
+     * @param Continent $continent continent à ajouter
+     * @return integer resultat (1 si l'opération a réussi, 0 sinon)
+     */
+    public static function add(Continent $continent) :int
+    {
+        $req = MonPdo::getinstance()->prepare("insert into continent(libelle) values(:libelle)");
+        $req->bindParam(':id', $continent->getLibelle());
+        $nb = $req->execute();
+        return $nb;
+    }
 }
