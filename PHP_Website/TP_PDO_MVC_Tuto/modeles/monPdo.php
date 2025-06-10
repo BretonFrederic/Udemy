@@ -30,7 +30,7 @@ class MonPdo
      *  Appel : $instanceMonPdo = MonPdo::getMonpdo();
      *  @return l'unique objet de la classe MonPdo
      */
-    public static function getinstance()
+    public static function getInstance()
     {
         if(self::$unPdo == null)
         {
