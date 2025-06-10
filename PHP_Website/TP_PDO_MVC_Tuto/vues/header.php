@@ -10,12 +10,14 @@
   <title>Jumbotron Template · Bootstrap</title>
 
   <link rel="canonical" href="https://getbootstrap.com/docs/4.2/examples/jumbotron/">
+  <link rel="stylesheet" href="jumbotron.css">
+
 
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.css">
 
   <!--fontawesome.com -->
-  <script defer src="https://kit.fontawesome.com/e0ab3a2c1c.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/e0ab3a2c1c.js" crossorigin="anonymous"></script>
 
   <style>
     .bd-placeholder-img {
@@ -64,6 +66,28 @@
             <a class="dropdown-item" href="formAjoutNationalite.php">Ajouter une nationalité</a>
           </div>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-earth-africa"></i> Gestion des continents</a>
+          <div class="dropdown-menu" aria-labelledby="dropdown01">
+            <a class="dropdown-item" href="index.php?uc=continents&action=list">Liste des continents</a>
+            <a class="dropdown-item" href="#">Ajouter un continent</a>
+          </div>
+        </li>
       </ul>
     </div>
   </nav>
+  <?php
+    if(!empty($_SESSION['message'])){
+      $mesMessages = $_SESSION['message'];
+      foreach($mesMessages as $key=>$message){
+          echo'<div class="container pt-5">
+                  <div class="alert alert-'.$key.' alert-dismissible fade show" role="alert">'.$message.'
+                      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                      </button>
+                  </div>
+              </div>';
+      }
+      $_SESSION['message']=[];
+    }
+  ?>

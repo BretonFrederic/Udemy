@@ -6,8 +6,8 @@
  */
 class MonPdo
 {
-    private static $serveur = 'mysql:host = localhost';
-    private static $bdd = 'dbname = biblio';
+    private static $serveur = 'mysql:host=localhost';
+    private static $bdd = 'dbname=biblio';
     private static $user = 'root';
     private static $mdp = '';
     private static $monPdo;
@@ -15,7 +15,7 @@ class MonPdo
 
     // Contructeur privé, crée l'instance de PDO qui sera sollicitée
     // pour toutes les méthodes de la classe
-    private function _construct()
+    private function __construct()
     {
         MonPdo::$unPdo = new PDO(MonPdo::$serveur.';'.MonPdo::$bdd, MonPdo::$user, MonPdo::$mdp);
         MonPdo::$unPdo->query("SET CHARACTER SET utf8");
@@ -30,7 +30,7 @@ class MonPdo
      *  Appel : $instanceMonPdo = MonPdo::getMonpdo();
      *  @return l'unique objet de la classe MonPdo
      */
-    public static function getinstance()
+    public static function getInstance()
     {
         if(self::$unPdo == null)
         {
