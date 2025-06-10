@@ -97,7 +97,7 @@ class Nationalite{
      */
     public static function findById(int $id) :Nationalite 
     {
-        $req = MonPdo::getInstance()->prepare("Select * from nationalite whre num = :id");
+        $req = MonPdo::getInstance()->prepare("Select * from nationalite where num = :id");
         $req->setFetchMode(PDO::FETCH_CLASS|PDO::FETCH_PROPS_LATE, 'Nationalite');
         $req->bindParam(':id', $id);
         $req->execute();
@@ -128,7 +128,7 @@ class Nationalite{
      */
     public static function update(Nationalite $nationalite) :int
     {
-        $req = MonPdo::getInstance()->prepare("update into nationalite set libelle = :libelle, numContinent = :numContinent where num = :id");
+        $req = MonPdo::getInstance()->prepare("update table set nationalite set libelle = :libelle, numContinent = :numContinent where num = :id");
         $req->bindParam(':id', $nationalite->getNum());
         $req->bindParam(':libelle', $nationalite->getLibelle());
         $req->bindParam(':numContinent', $nationalite->numContinent);

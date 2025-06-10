@@ -10,6 +10,8 @@
   <title>Jumbotron Template · Bootstrap</title>
 
   <link rel="canonical" href="https://getbootstrap.com/docs/4.2/examples/jumbotron/">
+  <link rel="stylesheet" href="jumbotron.css">
+
 
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.css">
