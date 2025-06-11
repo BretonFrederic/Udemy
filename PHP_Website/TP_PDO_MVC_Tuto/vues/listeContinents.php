@@ -5,7 +5,7 @@
             <h2>Liste des continents</h2>
         </div>
         <div class="col-3">
-            <a href="formNationalite.php?action=Ajouter" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer un continent</a>
+            <a href="index.php?uc=continents&action=add" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer un continent</a>
         </div>
     </div>
       <table class="table table-hover table-striped">
@@ -23,16 +23,12 @@
                 echo "<td class='col-md-2'>".$continent->getNum()."</td>";
                 echo "<td class='col-md-8'>".$continent->getLibelle()."</td>";
 
-                // Avec ? on passe en paramètre num=$nationalite->num qui compose l'url
                 echo "<td class='col-md-2'>
-                    <a href='formNationalite.php?action=Modifier&num=".$continent->getNum()."'class='btn btn-primary'><i class='fas fa-pen'></i></a>
-                    <a href='#modalSuppression' data-toggle='modal' data-message='Voulez-vous supprimer cette nationalité ?' data-suppression='supprimerNationalite.php?num=".$continent->getNum()."' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
+                    <a href='index.php?uc=continents&action=update&num=".$continent->getNum()."'class='btn btn-primary'><i class='fas fa-pen'></i></a>
+                    <a href='#modalSuppression' data-toggle='modal' data-message='Voulez-vous supprimer ce continent ?' data-suppression='index.php?uc=continents&action=delete&num=".$continent->getNum()."' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
                 </td>";
                 echo "</tr>";
             }
-
-// supprimerNationalite.php?num=$nationalite->num
-
             ?>
         </tbody>
     </table>
