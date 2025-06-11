@@ -15,6 +15,15 @@ switch($action){
         include('vues/formContinent.php');
         break;
     case 'delete':
+        $continent = Continent::findById($_GET['num']);
+        $nb = Continent::delete($continent);
+        if($nb == 1){
+            $_SESSION['message']=["success"=>"Le continent a bien été supprimé"];
+        }else{
+            $_SESSION['message']=["danger"=>"Le continent n'a pas été supprimé"];
+        }
+        header('location: index.php?uc=continents&action=list');
+        exit();
         break;
     case 'valideForm':
         $continent = new Continent();
