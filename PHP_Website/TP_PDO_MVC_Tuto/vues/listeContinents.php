@@ -5,7 +5,7 @@
             <h2>Liste des continents</h2>
         </div>
         <div class="col-3">
-            <a href="formNationalite.php?action=Ajouter" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer un continent</a>
+            <a href="index.php?uc=continents&action=add" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer un continent</a>
         </div>
     </div>
       <table class="table table-hover table-striped">

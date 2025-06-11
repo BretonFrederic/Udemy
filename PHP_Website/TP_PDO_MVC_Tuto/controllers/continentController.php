@@ -6,12 +6,17 @@ switch($action){
         include('vues/listeContinents.php');
         break;
     case 'add':
-        # code...
+        $mode = "Ajouter";
+        include('vues/formContinent.php');
         break;
     case 'update':
-        # code...
+        $mode = "Modifier";
+        include('vues/formContinent.php');
         break;
     case 'delete':
+        # code...
+        break;
+    case 'valideForm':
         # code...
         break;
 }
