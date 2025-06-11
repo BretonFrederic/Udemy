@@ -11,12 +11,30 @@ switch($action){
         break;
     case 'update':
         $mode = "Modifier";
+        $continent = Continent::findById($_GET['num']);
         include('vues/formContinent.php');
         break;
     case 'delete':
-        # code...
         break;
     case 'valideForm':
-        # code...
+        $continent = new Continent();
+        if(empty($_POST['num'])){// cas d'une création
+            $continent->setLibelle($_POST['libelle']);
+            $nb = Continent::add($continent);
+            $message = "ajouté";
+        }else{// cas modification
+            $continent->setNum($_POST['num']);
+            $continent->setLibelle($_POST['libelle']);
+            $nb = Continent::update($continent);
+            $message = "modifié";
+        }
+
+        if($nb == 1){
+            $_SESSION['message']=["success"=>"Le continent a bien été $message"];
+        }else{
+            $_SESSION['message']=["danger"=>"Le continent a bien été $message"];
+        }
+        header('location: index.php?uc=continents&action=list');
+        exit();
         break;
 }
