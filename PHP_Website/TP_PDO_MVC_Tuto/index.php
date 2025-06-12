@@ -1,6 +1,7 @@
 <?php ob_start();
 session_start();
 include("modeles/Continent.php");
+include("modeles/Nationalite.php");
 include("modeles/monPdo.php");
 include("vues/header.php");
 include("vues/messagesFlash.php");
@@ -13,6 +14,9 @@ switch($uc){
         break;
     case 'continents':
         include('controllers/continentController.php');
+        break;
+    case 'nationalites':
+        include('controllers/nationaliteController.php');
         break;
 }
 
