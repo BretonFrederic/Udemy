@@ -25,7 +25,7 @@ switch($action){
         header('location: index.php?uc=continents&action=list');
         exit();
         break;
-    case 'valideForm':
+    case 'validerForm':
         $continent = new Continent();
         if(empty($_POST['num'])){// cas d'une création
             $continent->setLibelle($_POST['libelle']);
