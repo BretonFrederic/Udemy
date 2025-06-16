@@ -52,8 +52,8 @@
 
                 // Avec ? on passe en paramètre num=$nationalite->num qui compose l'url
                 echo "<td class='col-md-2'>
-                    <a href='index.php?uc=nationalites&action=Modifier&num=$nationalite->numero' class='btn btn-primary'><i class='fas fa-pen'></i></a>
-                    <a href='#modalSuppression' data-toggle='modal' data-message='Voulez-vous supprimer cette nationalité ?' data-suppression='supprimerNationalite.php?num=$nationalite->numero' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
+                    <a href='index.php?uc=nationalites&action=update&num=".$nationalite->numero."' class='btn btn-primary'><i class='fas fa-pen'></i></a>
+                    <a href='#modalSuppression' data-toggle='modal' data-message='Voulez-vous supprimer cette nationalité ?' data-suppression='index.php?uc=nationalites&action=delete&num=".$nationalite->numero."' class='btn btn-danger'><i class='fas fa-trash-alt'></i></a>
                 </td>";
                 echo "</tr>";
             }

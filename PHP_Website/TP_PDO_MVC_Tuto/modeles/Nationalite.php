@@ -58,7 +58,7 @@ class Nationalite{
      *
      * @return Continent
      */
-    public function getNumContinent() :Continent
+    public function getContinent() :Continent
     {
         return Continent::findById($this->numContinent);
     }
@@ -68,7 +68,7 @@ class Nationalite{
      *
      * @return  self
      */ 
-    public function setNumContinent(Continent $continent) : self
+    public function setContinent(Continent $continent) : self
     {
         $this->numContinent = $continent->getNum();
         return $this;
@@ -139,7 +139,7 @@ class Nationalite{
      */
     public static function update(Nationalite $nationalite) :int
     {
-        $req = MonPdo::getInstance()->prepare("update table set nationalite set libelle = :libelle, numContinent = :numContinent where num = :id");
+        $req = MonPdo::getInstance()->prepare("update nationalite set libelle = :libelle, numContinent = :numContinent where num = :id");
         $num = $nationalite->getNum();
         $libelle = $nationalite->getLibelle();
         $numC = $nationalite->numContinent;
