@@ -47,8 +47,8 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gestion des genres</a>
           <div class="dropdown-menu" aria-labelledby="dropdown01">
-            <a class="dropdown-item" href="#">Liste des genres</a>
-            <a class="dropdown-item" href="#">Ajouter un genre</a>
+            <a class="dropdown-item" href="index.php?uc=genres&action=list">Liste des genres</a>
+            <a class="dropdown-item" href="index.php?uc=genres&action=add">Ajouter un genre</a>
           </div>
         </li>
         <li class="nav-item dropdown">
