@@ -2,6 +2,7 @@
 session_start();
 include("modeles/Continent.php");
 include("modeles/Nationalite.php");
+include("modeles/Auteur.php");
 include("modeles/Genre.php");
 include("modeles/monPdo.php");
 include("vues/header.php");
@@ -21,6 +22,9 @@ switch($uc){
         break;
     case 'genres':
         include('controllers/genreController.php');
+        break;
+    case 'auteurs':
+        include('controllers/auteurController.php');
         break;
 }
 
