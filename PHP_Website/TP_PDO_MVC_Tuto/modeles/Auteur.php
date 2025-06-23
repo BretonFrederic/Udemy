@@ -116,7 +116,7 @@ class Auteur{
         if($nom != ""){ 
             $texteReq .= " and a.nom like '%" .$nom."%'";
         }
-        if($nom != ""){ 
+        if($prenom != ""){ 
             $texteReq .= " and a.prenom like '%" .$prenom."%'";
         }
         if($nationalite != "Toutes") { 
