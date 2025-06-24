@@ -79,7 +79,7 @@ class Auteur{
 
     public function setPrenom(string $prenom) : self
     {
-        $this->nom = $prenom;
+        $this->prenom = $prenom;
         return $this;
     }
 

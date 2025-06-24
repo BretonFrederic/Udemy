@@ -4,7 +4,7 @@
     <form action="index.php?uc=continents&action=validerForm" method="post" class="col-md-6 offset-md-3 border border-primary p-3 rounded">
         <div class="form-group">
             <label for="libelle">Libellé</label>
-            <input type="text" class="form-control" id='libelle' placeholder="Saisir le libellé" name="libelle" value="<?php if ($mode == "Modifier"){echo $continent->getLibelle();} ?>">
+            <input type="text" class="form-control" id='libelle' placeholder="Saisir un continent" name="libelle" value="<?php if ($mode == "Modifier"){echo $continent->getLibelle();} ?>">
         </div>
         <input type="hidden" id="num" name="num" value="<?php if ($mode == "Modifier"){echo $continent->getNum();} ?>">
         <div class="row">

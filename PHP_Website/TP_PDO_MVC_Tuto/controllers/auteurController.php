@@ -47,7 +47,7 @@ switch($action){
             $nb = Auteur::add($auteur);
             $message = "ajouté";
         }else{// cas modification
-            $auteur->setNum($_POST['num']);
+            $auteur->setNum($_POST['num']); // setNum l'instance de class Auteur pas l'id dans la table
             $nb = Auteur::update($auteur);
             $message = "modifié";
         }
