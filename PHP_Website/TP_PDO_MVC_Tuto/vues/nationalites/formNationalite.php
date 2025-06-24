@@ -4,7 +4,7 @@
     <form action="index.php?uc=nationalites&action=validerForm"<?php echo $action ?>" method="post" class="col-md-6 offset-md-3 border border-primary p-3 rounded">
         <div class="form-group">
             <label for="libelle">Libellé</label>
-            <input type="text" class="form-control" id='libelle' placeholder="Saisir le libellé" name="libelle" value="<?php if ($mode == "Modifier"){echo $laNationalite->getLibelle();} ?>">
+            <input type="text" class="form-control" id='libelle' placeholder="Saisir une nationalité" name="libelle" value="<?php if ($mode == "Modifier"){echo $laNationalite->getLibelle();} ?>">
         </div>
         <div class="form-group">
             <label for="continent">Continent</label>

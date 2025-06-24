@@ -3,18 +3,22 @@
     <!--class="col-md-6 offset-md-3" colonne de 6/12 quand screen >= md à partir de la 3ème colonne de droite -->
     <form action="index.php?uc=auteurs&action=validerForm"<?php echo $action ?>" method="post" class="col-md-6 offset-md-3 border border-primary p-3 rounded">
         <div class="form-group">
-            <label for="libelle">Libellé</label>
-            <input type="text" class="form-control" id='libelle' placeholder="Saisir le libellé" name="libelle" value="<?php if ($mode == "Modifier"){echo $unAuteur->getLibelle();} ?>">
+            <label for="nom">Nom</label>
+            <input type="text" class="form-control" id='nom' placeholder="Saisir un nom" name="nom" value="<?php if ($mode == "Modifier"){echo $unAuteur->getNom();} ?>">
         </div>
         <div class="form-group">
-            <label for="continent">Continent</label>
-            <select name="continent" class="form-control">
+            <label for="prenom">Prénom</label>
+            <input type="text" class="form-control" id='prenom' placeholder="Saisir un prénom" name="prenom" value="<?php if ($mode == "Modifier"){echo $unAuteur->getPrenom();} ?>">
+        </div>
+        <div class="form-group">
+            <label for="nationalite">Nationalité</label>
+            <select name="nationalite" class="form-control">
                 <?php
-                foreach($lesContinents as $continent){
+                foreach($lesNationalites as $nationalite){
                     if($mode == "Modifier"){
-                        $selection = $continent->getNum() == $unAuteur->getContinent()->getNum() ? 'selected' : '';
+                        $selection = $nationalite->numero == $unAuteur->getNationalite()->getNum() ? 'selected' : '';
                     }
-                    echo "<option value='".$continent->getNum()."'". $selection.">".$continent->getLibelle()."</option>";
+                    echo "<option value='".$nationalite->numero."'".$selection.">".$nationalite->libNation."</option>";
                 }
                 ?>
             </select>

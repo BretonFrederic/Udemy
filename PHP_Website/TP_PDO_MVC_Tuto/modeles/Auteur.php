@@ -79,7 +79,7 @@ class Auteur{
 
     public function setPrenom(string $prenom) : self
     {
-        $this->nom = $prenom;
+        $this->prenom = $prenom;
         return $this;
     }
 
@@ -116,7 +116,7 @@ class Auteur{
         if($nom != ""){ 
             $texteReq .= " and a.nom like '%" .$nom."%'";
         }
-        if($nom != ""){ 
+        if($prenom != ""){ 
             $texteReq .= " and a.prenom like '%" .$prenom."%'";
         }
         if($nationalite != "Toutes") { 
