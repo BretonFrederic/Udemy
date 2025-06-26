@@ -72,6 +72,13 @@
             <a class="dropdown-item" href="index.php?uc=continents&action=add">Ajouter un continent</a>
           </div>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-book-open"></i> Gestion des livres</a>
+          <div class="dropdown-menu" aria-labelledby="dropdown01">
+            <a class="dropdown-item" href="index.php?uc=livres&action=list">Liste des livres</a>
+            <a class="dropdown-item" href="index.php?uc=livres&action=add">Ajouter un livre</a>
+          </div>
+        </li>
       </ul>
     </div>
   </nav>

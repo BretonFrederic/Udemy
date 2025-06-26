@@ -286,7 +286,7 @@ class Livre{
             $texteReq .= " and l.titre like '%" .$titre."%'";
         }
         if($auteur != "Tous"){
-            $texteReq .= " and nomAuteur like '%" .$auteur."%'";
+            $texteReq .= " and 'nomAuteur' like '%" .$auteur."%'";
         }
         if($genre != "Tous"){
             $texteReq .= " and g.num =" .$genre;
