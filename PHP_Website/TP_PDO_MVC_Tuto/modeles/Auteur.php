@@ -38,6 +38,20 @@ class Auteur{
     }
 
     /**
+     * Mutateur le numero de auteur
+     *
+     * @param  [int]  $num  Numero de auteur
+     *
+     * @return  self
+     */ 
+    public function setNum(int $num)
+    {
+        $this->num = $num;
+
+        return $this;
+    }
+
+    /**
      * Accesseur de la valeur nom
      * 
      * @return string
@@ -94,7 +108,7 @@ class Auteur{
     }
 
     /**
-     * Ecrit le numNationalite
+     * Mutateur de numNationalite
      *
      * @return  self
      */ 
@@ -200,21 +214,5 @@ class Auteur{
         $req->bindParam(':id', $num);
         $nb = $req->execute();
         return $nb;
-    }
-
-
-
-    /**
-     * Ecrit le numero de auteur
-     *
-     * @param  [int]  $num  Numero de auteur
-     *
-     * @return  self
-     */ 
-    public function setNum(int $num)
-    {
-        $this->num = $num;
-
-        return $this;
     }
 }
