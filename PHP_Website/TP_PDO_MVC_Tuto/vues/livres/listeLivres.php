@@ -21,7 +21,7 @@
 
                     foreach($lesAuteurs as $auteur){
                         $selection = $auteur->numero == $auteurSel ? 'selected' : '';
-                        echo "<option value='".$auteur->numero."'". $selection.">".$auteur->nom." ".$auteur->prenom."</option>";
+                        echo "<option value='".$auteur->numero."'".$selection.">".$auteur->nom." ".$auteur->prenom."</option>";
                     }
                     ?>
                 </select>
@@ -33,7 +33,7 @@
 
                     foreach($lesGenres as $genre){
                         $selection = $genre->getnum() == $genreSel ? 'selected' : '';
-                        echo "<option value='".$genre->getNum()."'". $selection.">".$genre->getLibelle()."</option>";
+                        echo "<option value='".$genre->getNum()."'".$selection.">".$genre->getLibelle()."</option>";
                     }
                     ?>
                 </select>

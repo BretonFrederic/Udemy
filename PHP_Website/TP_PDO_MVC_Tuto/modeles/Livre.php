@@ -281,12 +281,12 @@ class Livre{
     public static function findAll(?string $titre="", ?string $auteur="Tous", ?string $genre="Tous") :array
     {
         // Préparation de la requête
-        $texteReq = "select l.num as 'numeroLivre', l.isbn, l.titre, l.prix, l.editeur, l.annee, l.langue, concat(a.nom, ' ', a.prenom) as 'nomAuteur', g.libelle as 'genre' from livre l, auteur a, genre g where l.numAuteur = a.num and l.numgenre = g.num";
+        $texteReq = "select l.num as 'numeroLivre', l.isbn, l.titre, l.prix, l.editeur, l.annee, l.langue, concat(a.nom, ' ', a.prenom) as 'nomAuteur', g.libelle as 'genre' from livre l, auteur a, genre g where l.numAuteur = a.num and l.numGenre = g.num";
         if($titre != ""){
             $texteReq .= " and l.titre like '%" .$titre."%'";
         }
         if($auteur != "Tous"){
-            $texteReq .= " and 'nomAuteur' like '%" .$auteur."%'";
+            $texteReq .= " and a.num = " .$auteur;
         }
         if($genre != "Tous"){
             $texteReq .= " and g.num =" .$genre;
