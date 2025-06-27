@@ -299,4 +299,14 @@ class Livre{
         $lesResultats = $req->fetchAll();
         return $lesResultats;
     }
+
+    public static function findById(int $id) :Livre
+    {
+        $req = MonPdo::getInstance()->prepare("select * from livre where num = :id");
+        $req->setFetchMode(PDO::FETCH_CLASS | PDO::FETCH_PROPS_LATE, 'livre');
+        $req->bidParam("id", $id);
+        $req->execute();
+        $leResultat = $req->fetch();
+        return $leResultat;
+    }
 }
