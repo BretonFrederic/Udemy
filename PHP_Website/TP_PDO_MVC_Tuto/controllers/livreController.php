@@ -15,4 +15,18 @@ switch($action){
         $lesGenres = Genre::findAll();
         include('vues/livres/listeLivres.php');
         break;
+    case 'add':
+        $mode = "Ajouter";
+        $lesLivres = Livre::findAll();
+        include("vues/livres/formLivre.php");
+        break;
+    case 'update':
+        $mode = "Modifier";
+        $lesLivres = Livre::findAll();
+        $unLivre = Livre::findById($_GET['num']);
+        include("vues/livres/formLivre.php");
+        break;
+    case 'delete':
+        $unLivre = Livre::findById(int $id);
+        break;
 }
