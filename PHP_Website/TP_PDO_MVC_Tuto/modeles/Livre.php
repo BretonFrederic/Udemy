@@ -278,6 +278,14 @@ class Livre{
         return $this;
     }
 
+    /**
+     * retourne l'ensemble des livres
+     *
+     * @param string|null $titre du livre
+     * @param string|null $auteur du livre
+     * @param string|null $genre du livre
+     * @return array Livre[] d'objet livre
+     */
     public static function findAll(?string $titre="", ?string $auteur="Tous", ?string $genre="Tous") :array
     {
         // Préparation de la requête
@@ -304,9 +312,84 @@ class Livre{
     {
         $req = MonPdo::getInstance()->prepare("select * from livre where num = :id");
         $req->setFetchMode(PDO::FETCH_CLASS | PDO::FETCH_PROPS_LATE, 'livre');
-        $req->bidParam("id", $id);
+        $req->bindParam(":id", $id);
         $req->execute();
         $leResultat = $req->fetch();
         return $leResultat;
+    }
+
+    /**
+     * Permet d'ajouter un livre
+     *
+     * @param Livre $livre auteur et genre à ajouter
+     * @return integer resultat (1 si l'opération a réussi, 0 sinon)
+     */
+    public static function add(Livre $livre) :int
+    {
+        $req = MonPdo::getInstance()->prepare("insert into livre(isbn, titre, prix, editeur, annee, langue, numAuteur, numGenre) values(:isbn, :titre, :prix, :editeur, :annee, :langue, :numAuteur, :numGenre)");
+        $isbn = $livre->getIsbn();
+        $titre = $livre->getTitre();
+        $prix = $livre->getPrix();
+        $editeur = $livre->getEditeur();
+        $annee = $livre->getAnnee();
+        $langue = $livre->getLangue();
+        $numAuteur = $livre->numAuteur;
+        $numGenre = $livre->numGenre;
+        $req->bindParam(':isbn', $isbn);
+        $req->bindParam(':titre', $titre);
+        $req->bindParam(':prix', $prix);
+        $req->bindParam(':editeur', $editeur);
+        $req->bindParam(':annee', $annee);
+        $req->bindParam(':langue', $langue);
+        $req->bindParam(':numAuteur', $numAuteur);
+        $req->bindParam(':numGenre', $numGenre);
+        $nb = $req->execute();
+        return $nb;
+    }
+
+    /**
+     * Permet de modifier un livre
+     *
+     * @param Livre $livre livre à modifier
+     * @return integer resultat (1 si l'opération a réussi, 0 sinon)
+     */
+    public static function update(Livre $livre) :int
+    {
+        $req = MonPdo::getInstance()->prepare("update livre set isbn = :isbn, titre = :titre, prix = :prix, editeur = :editeur, annee = :annee, langue = :langue, numAuteur = :numAuteur, numGenre = :numGenre where num = :id");
+        $num = $livre->getNum();
+        $isbn = $livre->getIsbn();
+        $titre = $livre->getTitre();
+        $prix = $livre->getPrix();
+        $editeur = $livre->getEditeur();
+        $annee = $livre->getAnnee();
+        $langue = $livre->getLangue();
+        $numAuteur = $livre->numAuteur;
+        $numGenre = $livre->numGenre;
+        $req->bindParam(':id', $num);
+        $req->bindParam(':isbn', $isbn);
+        $req->bindParam(':titre', $titre);
+        $req->bindParam(':prix', $prix);
+        $req->bindParam(':editeur', $editeur);
+        $req->bindParam(':annee', $annee);
+        $req->bindParam(':langue', $langue);
+        $req->bindParam(':numAuteur', $numAuteur);
+        $req->bindParam(':numGenre', $numGenre);
+        $nb = $req->execute();
+        return $nb;
+    }
+
+    /**
+     * Permet de supprimer un livre
+     *
+     * @param Livre $livre à supprimer
+     * @return integer resultat (1 si l'opération a réussi, 0 sinon)
+     */
+    public static function delete(Livre $livre) :int
+    {
+        $req = MonPdo::getInstance()->prepare("delete from livre where num = :id");
+        $num = $livre->getNum();
+        $req->bindParam(':id', $num);
+        $nb = $req->execute();
+        return $nb;
     }
 }

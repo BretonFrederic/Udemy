@@ -1,7 +1,7 @@
 <div class="container mt-5">
     <h2 class="pt-3 text-center"><?php echo $mode ?> une nationalité</h2>
     <!--class="col-md-6 offset-md-3" colonne de 6/12 quand screen >= md à partir de la 3ème colonne de droite -->
-    <form action="index.php?uc=nationalites&action=validerForm"<?php echo $action ?>" method="post" class="col-md-6 offset-md-3 border border-primary p-3 rounded">
+    <form action="index.php?uc=nationalites&action=validerForm"<?php echo $action ?> method="post" class="col-md-6 offset-md-3 border border-primary p-3 rounded">
         <div class="form-group">
             <label for="libelle">Libellé</label>
             <input type="text" class="form-control" id='libelle' placeholder="Saisir une nationalité" name="libelle" value="<?php if ($mode == "Modifier"){echo $laNationalite->getLibelle();} ?>">
