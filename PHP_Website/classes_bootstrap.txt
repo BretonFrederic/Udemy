@@ -22,3 +22,6 @@ On retrouve la même syntaxe pour les padding spécifiques top, left, Bottom et 
 Bootstrap est utile pour créer le squelette d'un site en récupérant le code, on peut ensuite faire de même avec un card, button etc que l'on pourra personnaliser.
 
 Pour les icones fontawesome.com sera utile.
+
+fontawsome
+canvasJS

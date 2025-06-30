@@ -1,3 +1,37 @@
+<script>
+window.onload = function() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	exportEnabled: true,
+	animationEnabled: true,
+	title: {
+		text: "Desktop Browser Market Share in 2016"
+	},
+	data: [{
+		type: "pie",
+		startAngle: 25,
+		toolTipContent: "<b>{label}</b>: {y}%",
+		showInLegend: "true",
+		legendText: "{label}",
+		indexLabelFontSize: 16,
+		indexLabel: "{label} - {y}%",
+		dataPoints: [
+			{ y: 51.08, label: "Chrome" },
+			{ y: 27.34, label: "Internet Explorer" },
+			{ y: 10.62, label: "Firefox" },
+			{ y: 5.02, label: "Microsoft Edge" },
+			{ y: 4.07, label: "Safari" },
+			{ y: 1.22, label: "Opera" },
+			{ y: 0.44, label: "Others" }
+		]
+	}]
+});
+chart.render();
+
+}
+</script>
+
 <main role="main">
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="jumbotron container">
@@ -10,53 +44,25 @@
 
   <div class="container">
     <!-- Example row of columns -->
-    <div class="row">
-      <div class="col-md-4">
-        <h2>Heading</h2>
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-        <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
-      </div>
-      <div class="col-md-4">
-        <h2>Heading</h2>
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-        <p><a class="btn btn-warning" href="#" role="button">View details &raquo;</a></p>
-      </div>
-      <div class="col-md-4">
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-      </div>
-    </div>
-      
-    <hr>
 
   </div> <!-- /container -->
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
-        <div class="card border-primary mb-3" style="max-width: 20rem;">
-          <div class="card-header">Header</div>
+      <div class="col-md-8" style="height: 600px">
+        <div class="card border-primary mb-3" style="height: 600px">
+          <div class="card-header">Statistiques des livres</div>
           <div class="card-body">
-            <h4 class="card-title">Primary card title</h4>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <h4 class="card-title"></h4>
+            <div class="card-text" id="chartContainer"></div>
           </div>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="card border-primary mb-3" style="max-width: 20rem;">
-          <div class="card-header">Header</div>
+      <div class="col-md-4" style="height: 600px">
+        <div class="card border-primary mb-3" style="height: 600px">
+          <div class="card-header">Statistiques générales</div>
           <div class="card-body">
-            <h4 class="card-title">Primary card title</h4>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card border-primary mb-3" style="max-width: 20rem;">
-          <div class="card-header">Header</div>
-          <div class="card-body">
-            <h4 class="card-title">Primary card title</h4>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <h4 class="card-title"></h4>
+            <p class="card-text"></p>
           </div>
         </div>
       </div>
@@ -64,3 +70,4 @@
   </div>
 
 </main>
+<script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
