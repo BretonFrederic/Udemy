@@ -55,7 +55,7 @@ switch($action){
         if($nb == 1){
             $_SESSION['message']=["success"=>"L'auteur a bien été $message"];
         }else{
-            $_SESSION['message']=["danger"=>"L'auteur a bien été $message"];
+            $_SESSION['message']=["danger"=>"L'auteur n'a pas été $message"];
         }
         header('location: index.php?uc=auteurs&action=list');
         exit();
