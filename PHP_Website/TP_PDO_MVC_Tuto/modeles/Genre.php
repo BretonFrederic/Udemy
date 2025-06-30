@@ -139,4 +139,13 @@ class Genre{
 
         return $this;
     }
+
+    public static function nombreGenres() :int
+    {
+        $texteReq = "select count(num) as 'nb' from genre";
+        $req = MonPdo::getInstance()->prepare($texteReq);
+        $req->execute();
+        $leResultat = $req->fetch();
+        return $leResultat[0];
+    }
 }

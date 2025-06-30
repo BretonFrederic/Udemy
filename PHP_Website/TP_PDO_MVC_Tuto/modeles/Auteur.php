@@ -215,4 +215,13 @@ class Auteur{
         $nb = $req->execute();
         return $nb;
     }
+
+    public static function nombreAuteurs() :int
+    {
+        $texteReq = "select count(num) as 'nb' from auteur";
+        $req = MonPdo::getInstance()->prepare($texteReq);
+        $req->execute();
+        $leResultat = $req->fetch();
+        return $leResultat[0];
+    }
 }

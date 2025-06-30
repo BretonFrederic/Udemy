@@ -16,6 +16,8 @@
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.css">
 
+  <link rel="stylesheet" href="../css/liensDecoration.css">
+
   <!--fontawesome.com -->
   <script src="https://kit.fontawesome.com/e0ab3a2c1c.js" crossorigin="anonymous"></script>
 

@@ -6,7 +6,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 	exportEnabled: true,
 	animationEnabled: true,
 	title: {
-		text: "Desktop Browser Market Share in 2016"
+		text: "Répartition des livres par genre"
 	},
 	data: [{
 		type: "pie",
@@ -16,15 +16,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		legendText: "{label}",
 		indexLabelFontSize: 16,
 		indexLabel: "{label} - {y}%",
-		dataPoints: [
-			{ y: 51.08, label: "Chrome" },
-			{ y: 27.34, label: "Internet Explorer" },
-			{ y: 10.62, label: "Firefox" },
-			{ y: 5.02, label: "Microsoft Edge" },
-			{ y: 4.07, label: "Safari" },
-			{ y: 1.22, label: "Opera" },
-			{ y: 0.44, label: "Others" }
-		]
+		dataPoints: <?php echo json_encode(Livre::livreParGenre(), JSON_NUMERIC_CHECK) ?>
 	}]
 });
 chart.render();
@@ -60,9 +52,21 @@ chart.render();
       <div class="col-md-4" style="height: 600px">
         <div class="card border-primary mb-3" style="height: 600px">
           <div class="card-header">Statistiques générales</div>
-          <div class="card-body">
-            <h4 class="card-title"></h4>
-            <p class="card-text"></p>
+          <div class="card-body mt-5">
+            <h4 class="card-title text-center"><a href="index.php?uc=livres&action=list">
+              <span class="badge badge-success"><?php echo Livre::nombreLivres(); ?></span>
+              livres
+            </a></h4>
+            <hr>
+            <h4 class="card-title text-center"><a href="index.php?uc=auteurs&action=list">
+              <span class="badge badge-primary"><?php echo Auteur::nombreAuteurs(); ?></span>
+              auteurs
+            </a></h4>
+            <hr>
+            <h4 class="card-title text-center"><a href="index.php?uc=genres&action=list">
+              <span class="badge badge-danger"><?php echo Genre::nombreGenres(); ?></span>
+              genres
+            </a></h4>
           </div>
         </div>
       </div>
