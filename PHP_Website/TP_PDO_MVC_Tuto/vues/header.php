@@ -16,6 +16,8 @@
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.css">
 
+  <link rel="stylesheet" href="../css/liensDecoration.css">
+
   <!--fontawesome.com -->
   <script src="https://kit.fontawesome.com/e0ab3a2c1c.js" crossorigin="anonymous"></script>
 
@@ -37,7 +39,7 @@
 
 <body>
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
-    <a class="navbar-brand" href="#">Ma bibliothèque</a>
+    <a class="navbar-brand" href="index.php">Ma bibliothèque</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

@@ -18,17 +18,17 @@
             <div class="row">
                 <div class="col-2">
                     <label for="prix">Prix</label>
-                    <input type="number" class="form-control" id='prix' placeholder="€" name="prix" value="<?php if ($mode == "Modifier"){echo $unLivre->getprix();} ?>">
+                    <input type="number" min="0" class="form-control" id='prix' placeholder="€" name="prix" value="<?php if ($mode == "Modifier"){echo $unLivre->getprix();} ?>">
                 </div>
                 <div class="col-4">
                     <label for="editeur">Editeur</label>
                     <input type="text" class="form-control" id='editeur' placeholder="Saisir éditeur" name="editeur" value="<?php if ($mode == "Modifier"){echo $unLivre->getEditeur();} ?>">
                 </div>
-                <div class="col-2">
+                <div class="col-3">
                     <label for="annee">Année</label>
-                    <input type="number" class="form-control" id='annee' placeholder="Année" name="annee" value="<?php if ($mode == "Modifier"){echo $unLivre->getAnnee();} ?>">
+                    <input type="number" min="1900" max="2099" class="form-control" id='annee' placeholder="Année" name="annee" value="<?php if ($mode == "Modifier"){echo $unLivre->getAnnee();} ?>">
                 </div>
-                <div class="col-4">
+                <div class="col-3">
                     <label for="langue">Langue</label>
                     <input type="text" class="form-control" id='langue' placeholder="Saisir une langue" name="langue" value="<?php if ($mode == "Modifier"){echo $unLivre->getLangue();} ?>">
                 </div>

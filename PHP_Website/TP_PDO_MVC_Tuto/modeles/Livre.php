@@ -392,4 +392,38 @@ class Livre{
         $nb = $req->execute();
         return $nb;
     }
+
+    /**
+     * Tri le nombre de livres par genre
+     *
+     * @return array $dataPoints [] renvoie tableau de livres par genre
+     */
+    public static function livreParGenre() :array
+    {
+        // Préparation de la requête
+        $texteReq = "select g.libelle, count(l.num) as 'nb' from livre as l, genre as g where l.numGenre = g.num group by g.num";
+        $req = MonPdo::getInstance()->prepare($texteReq);
+        $req->setFetchMode(PDO::FETCH_OBJ);
+        $req->execute();
+        $lesResultats = $req->fetchAll();
+        $dataPoints = [];
+        foreach ($lesResultats as $leResultat) {
+            $dataPoints[]=["label"=>"$leResultat->libelle", "y"=>intval($leResultat->nb)];
+        }
+        return $dataPoints;
+    }
+
+    /**
+     * Compter le nombre total de livres
+     *
+     * @return integer $leResultat[0] renvoie le nombre total de livres
+     */
+    public static function nombreLivres() :int
+    {
+        $texteReq = "select count(num) as 'nb' from livre";
+        $req = MonPdo::getInstance()->prepare($texteReq);
+        $req->execute();
+        $leResultat = $req->fetch();
+        return $leResultat[0];
+    }
 }
